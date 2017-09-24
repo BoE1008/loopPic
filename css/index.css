@@ -1,0 +1,18 @@
+#container {
+  width: 720px;
+  margin: 100px auto;
+  overflow: hidden;
+  position: relative;
+}
+#container ul {
+  list-style: none;
+  width: 1050%;
+  position: relative;
+}
+#container ul li {
+  display: inline-block;
+  float: left;
+}
+#container ul li img {
+  display: block;
+}
